@@ -11,6 +11,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ee285a51-faf9-492c-a180-f5401ae79690" name="cll@39.106.125.30:704" url="http:///">
+        <fileTransfer host="39.106.125.30" port="704" accessType="SFTP" authAgent="true">
+          <option name="port" value="704" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
